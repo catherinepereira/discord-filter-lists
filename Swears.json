@@ -21,7 +21,7 @@
     "goddam %mute 180",
     "god-dam %mute 180",
     "goddamn %mute 180",
-    "knob %mute 180",
+    "knob %whole %mute 180",
     "shit %mute 180",
     "tosser %mute 180"
   ]
