@@ -1,9 +1,9 @@
 {
   "private": true,
   "words": [
-    "go die %ban 30 %notify",
-    "kys %whole %ban 30 %notify",
-    "kill yourself %ban 30 %notify",
-    "kill your self %ban 30 %notify"
+    "go die %ban %notify",
+    "kys %whole %ban %notify",
+    "kill yourself %ban %notify",
+    "kill your self %ban %notify"
   ]
 }
