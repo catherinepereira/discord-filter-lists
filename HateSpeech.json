@@ -3,7 +3,7 @@
   "words": [
     "卍  %ban",
     "boiolas %ban",
-    "chink %ban",
+    "chink %whole %ban",
     "ching chong %ban",
     "coon %whole %ban",
     "dyke %ban",
@@ -18,7 +18,8 @@
     "fagots %whole %ban",
     "gayblox %ban",
     "gaylord %ban",
-    "homo %mute %ban",
+    "homo %whole %notify %ban",
+    "homos %whole %notify %ban",
     "jap %whole %ban",
     "japs %whole %ban",
     "n!gger %ban",
@@ -30,7 +31,7 @@
     "negger %ban",
     "negus %ban",
     "nig gers %ban",
-    "niger %ban",
+    "niger %whole %ban",
     "nigg3r %ban",
     "nigg4h %ban",
     "nigga %ban",
@@ -48,6 +49,6 @@
     "retart %ban",
     "shemale %ban",
     "sieg heil %ban",
-    "ñigger %ban "
+    "ñigger %ban"
   ]
 }

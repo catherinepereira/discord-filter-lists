@@ -16,8 +16,6 @@
     "hashish %whole %ban 7",
     "hemp %ban 7",
     "heroin %ban 7",
-    "ghb %whole %ban 7",
-    "huff %whole %ban 7",
     "ketamine %ban 7",
     "marijuana %ban 7",
     "mdma %ban 7",
@@ -27,10 +25,10 @@
     "vape %begin %ban 7",
     "vaping %ban 7",
     "viagra %ban 7",
-    "weed %whole %ban 7",
-    "wine %ban 7",
+    "smoke weed %ban 7",
+    "wine %whole %ban 7",
     "xanny %ban 7",
     "xanax %ban 7",
-    "zoot %ban 7"
+    "zoot %whole %ban 7"
   ]
 }
